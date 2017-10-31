@@ -2,5 +2,5 @@
 
 # Burrito Quiz 
 
-Something I made for fun, to see what kind of burrito my brother bought from WalMart at any given time, via a multiple choice via context clues he gives me throughout conversations we have throughout the day. 99% accuracy.
+Something I made for fun, to see what kind of burrito my brother bought from WalMart at any given time, via a multiple choice via context clues he gives me throughout conversations we have throughout the day. I'll quiz myself, and the results are always with 99% accuracy.
 
