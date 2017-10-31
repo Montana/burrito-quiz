@@ -6,7 +6,7 @@ Something I made for fun, to see what kind of burrito my brother bought from Wal
 
 If you have a brother also who frequents WalMart and buys burritos, specifically the Great Value ones, and Tina's then this program is just perfect for you! Here's how you get this bad boy running, talk to your brother throughout the day, get some clues, then run this quiz, to make it executable, rum 
 
-<pre>chmod u+x answers.py main.py quiz.py</pre> 
+<pre>chmod u+x answer.py main.py quiz.py</pre> 
 
 Then you're all set, run 
 
