@@ -6,7 +6,7 @@ def q1():
 	a2 = "What color packaging was the burrito in?"
 	a3 = "Were the beans, dare I say..... a bit grainy?"
 
-	ansdict = {a1: False, a2: False, a3: True, a4: False} 
+	ansdict = {a1: False, a2: False, a3: True} 
 	randict = {}
 	keys = ansdict.keys()
 	random.shuffle(keys)
@@ -19,7 +19,7 @@ def q2():
 	a2 = "Not so grainy, so Great Value."
 	a3 = "I got Totinos, so none of the above."
 	
-	ansdict = {a1: False, a2: True, a3: False, a4: False}
+	ansdict = {a1: False, a2: True, a3: False}
 	randict = {}
 	keys = ansdict.keys()
 	random.shuffle(keys)
@@ -32,7 +32,7 @@ def q3():
 	a2 = "Frozen food section."
 	a3 = "Tinas."
 	a4 = "Great Value."
-	ansdict = {a1: True, a2: False, a3: False, a4: False}
+	ansdict = {a1: True, a2: False, a3: False}
 	randict = {}
 	keys = ansdict.keys()
 	random.shuffle(keys)
