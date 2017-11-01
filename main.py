@@ -7,7 +7,7 @@ import question
 
 def intro():
 	print(Fore.RED + "Hello program, what burrito's did my brother purchase today?")
-	print(Fore.RED + "This is a multiple-choice quiz designed to test you on your knowledge on my brother's purchasing habits of burritos.")
+	print(Fore.RED + "This is a multiple-choice quiz designed to test you on your knowledge on your brother's purchasing habits of burritos.")
 	print(Fore.CYAN + "This is the end of the introduction.")
 	print(Fore.GREEN + "Good luck!")
 
