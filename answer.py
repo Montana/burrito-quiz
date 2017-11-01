@@ -18,6 +18,7 @@ def q2():
 	a1 = "They were a bit grainy, so Tinas."
 	a2 = "Not so grainy, so Great Value."
 	a3 = "I got Totinos, so none of the above."
+	
 	ansdict = {a1: False, a2: True, a3: False, a4: False}
 	randict = {}
 	keys = ansdict.keys()
