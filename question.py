@@ -125,5 +125,3 @@ def q3():
 		print(Style.BRIGHT + Fore.RED + "Incorrect.")
 		printscore()
 		time.sleep(2)
-
-
